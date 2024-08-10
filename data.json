@@ -1,0 +1,38 @@
+[
+  {
+    "destino": "Berlin",
+    "description": "lugar ideal para vivir experiencias unicas",
+    "img1": "./images/berlinModal1.jpg",
+    "img2": "./images/berlinModal2.jpg"
+  },
+  {
+    "destino": "Tokyo",
+    "description": "lugar ideal para vivir experiencias unicas",
+    "img1": "./images/tokyoModal1.jpg",
+    "img2": "./images/tokyoModal2.jpg"
+  },
+  {
+    "destino": "Miami",
+    "description": "lugar ideal para vivir experiencias unicas",
+    "img1": "./images/miamiModal1.jpg",
+    "img2": "./images/miamiModal2.jpg"
+  },
+  {
+    "destino": "Italia",
+    "description": "lugar ideal para vivir experiencias unicas",
+    "img1": "./images/italiaModal1.jpg",
+    "img2": "./images/italiaModal2.jpg"
+  },
+  {
+    "destino": "España",
+    "description": "lugar ideal para vivir experiencias unicas",
+    "img1": "./images/espModal1.jpg",
+    "img2": "./images/espModal2.jpg"
+  },
+  {
+    "destino": "Paris",
+    "description": "lugar ideal para vivir experiencias unicas",
+    "img1": "./images/parisModal1.jpg",
+    "img2": "./images/parisModal2.jpg"
+  }
+]
